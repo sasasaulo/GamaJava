@@ -11,7 +11,7 @@ Spring projects are not in this repository.
 
 11
 
-## Contents
+## Package Contents
 
 ### Functions and Methods
 * System.out.println()
@@ -20,3 +20,8 @@ Spring projects are not in this repository.
 * x++ vs ++x
 * JOptionPane
 * parseInt --- parseDouble
+
+### Public Access Method
+* Accessing public attributes and methods without getters and setters
+
+ 

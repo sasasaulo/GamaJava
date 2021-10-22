@@ -24,4 +24,7 @@ Spring projects are not in this repository.
 ### Public Access Method
 * Accessing public attributes and methods without getters and setters
 
- 
+### Methods
+* Using Getters and Setters
+* Differences between protected, public and private (attributes and methods)
+* Accessing a private method from other class

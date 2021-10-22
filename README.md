@@ -28,3 +28,7 @@ Spring projects are not in this repository.
 * Using Getters and Setters
 * Differences between protected, public and private (attributes and methods)
 * Accessing a private method from other class
+
+### Static Methods and Attributes
+* Using static
+* method strip() - remove left and right  spaces of the string
